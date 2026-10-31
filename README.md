@@ -1,8 +1,8 @@
-<h2 data-importer="text" align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 data-importer="text" align="left">Hi 👋! My name is Aryan Yaghoubi and im from Persia</h2>
 
 ###
 
-<img data-importer="image" align="right" height="150" src="https://imgflip.com/gif/b4rqay"  />
+<img data-importer="image" align="right" height="150" src="https://imgflip.com/i/b2pxta"  />
 
 ###
 
